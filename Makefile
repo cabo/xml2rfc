@@ -45,6 +45,7 @@ rfctests    = $(addprefix tests/out/, $(rfctest))
 draftxml = \
 	draft-template.xml		\
 	draft-miek-test.xml		\
+	draft-no-toc-test.xml		\
 #
 
 draftxmlfiles = $(addprefix tests/input/, $(draftxml))

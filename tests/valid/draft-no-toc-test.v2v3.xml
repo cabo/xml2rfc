@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE rfc [
+  <!ENTITY nbsp    "&#160;">
+  <!ENTITY zwsp   "&#8203;">
+  <!ENTITY nbhy   "&#8209;">
+  <!ENTITY wj     "&#8288;">
+]>
+<?xml-stylesheet type="text/xsl" href="rfc2629.xslt" ?>
+<!--do not a generate table of contents-->
+<?rfc toc="no"?>
+<?rfc sortrefs="yes"?>
+<?rfc symrefs="yes"?>
+<?rfc comments="yes"?>
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" ipr="trust200902" docName="draft-no-toc-test-00" category="exp" tocInclude="false" sortRefs="true" symRefs="true" version="3">
+  <!-- xml2rfc v2v3 conversion 3.12.4 -->
+  <front>
+    <title abbrev="no-toc-test">No Table of contents</title>
+    <seriesInfo name="Internet-Draft" value="draft-no-toc-test-00"/>
+    <author fullname="Jane Doe">
+    </author>
+    <date year="2022" month="May" day="1"/>
+    <abstract>
+      <t>Test no ToC</t>
+    </abstract>
+  </front>
+  <middle>
+    <section anchor="introduction">
+      <name>Introduction</name>
+      <t>Test</t>
+    </section>
+  </middle>
+  <back>
+  </back>
+</rfc>
